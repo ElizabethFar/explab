@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<title> MIS  EXPERIENCIAS  EN LAS PRACTICAS PREOFECIONALES </title>
+    
+ <body bgcolor=#CD9BD3>
+  <style type= "text/css">
+          { 
+ margin-top: 2em;
+ font-family: Verdana,Arial,
+   sans-serif;
+font-size: 15px
+color: YELOW
+text-align: center;
+background color: #9BC1D3;
+ }
+div.cuerpo 
+ { 
+ margin: 0 20px 20px;
+background-color: #9C9BD3   ;
+  }
+
+   </style>   </body> 
+
+<center><font size=20 color= RED>
+    MI EXPERIENCIA </font></center><hr  width ="" size="4">
+    <h2> Florsani</h2>
+    <th><img src="florsani.jpg"style="width:200px;height:120px;"></th>
+
+ <p> Mi experiencias de practicas laborables fue agradable  donde realice  mis practicas en Florsani donde el horario de trabajo  era  de 6:30 a 3:30 ,el primer dia que  llegamos  a Florsani nos dirigimos a la area de talentos humanos donde era encargada la sñr Karolina  era encargado de los pasantes  donde el primer dia nos dio informacion y nos asigno las areas a cada uno  donde lo cual  fui a la area de  logistica donde fue una experiencia bonita donde forme parte de  la area  de Logistica donde conoci al encargado de la area de logistica que era el Ing.Jimmy Naranjo  donde  me presente  como pasante con todos  de la area  de trabajo  donde fue una gran acojida como pasante ya que comparti con los compañeros de trabajo despues de la presentacion  el Ing.Jimmy Naranjo  donde  me enseño como revisar la imformacion de upc's  para que le pueda ayudar al Ing.Jimmy Naranjo  donde me dijo que era  muy importante la revicion de fecha de despacho como la fecha de imprecion y a la vez toda la imformacion que llebaba  el procedimiento upc's   y  la liberacion upc  y pegar bien los numeros ya que cada numero era de cada dia diferente y tenia que estar bien atenta a la imprecion de upc's de capuchon de flor  ya que  era muy importante  porque   se pegaba la etiqueta en el capuchon de flor  y era para enviar a diferentes pais , toda esa imformacion  que dijimos de antes  tambien era muy importantes para que no ahiga ningun incomveniente
+  por dia se revisaba mas de 30 upc's  la imformacion . </p>                                                           
+</div>
+<div id ="Revicion de upc" style="margin-top:100px;">
+<h1>Revicion de upc</h1>
+<th><img src="reviciondeupc.jpg"style="width:200px;height:120px;"></th>
+
+</div>
+
+<p> Igualmente  el Ing,Jimmy Narajo dijo que le ayudara  en la imprecion de  capuchon de flor en lo cual se realizaba en la  impresora zebra  que tenia que imprimir  igualmente  envolver   para  que puenda revisar la area de logistica  y despues de la verificacion se iba a dejar en el almacen </p> 
+
+    <div id ="Imprecion de capuchon de flor " style="margin-top:100px;">
+<h1>Imprecion de capuchon de flor </h1>
+<th><img src="impreciondecapuchondeflor.jpg"style="width:200px;height:120px;"></th>
+</div>
+
+ <p> Igualmente  el Ing,Jimmy Narajo dijo que le ayudara  en organizar  documetos de upc's para lo cual  tocaba  buscar las copias originales ,copia ,firmas, y asi se podia organizar los upc
+    <div id ="Organizar style="margin-top:100px;">
+<h1>Organizar </h1>
+<video src="Organizar.mp4" width="320" height="240" controls></video>
+
+</div>
+  
+    <div id =" Sacar copia" style="margin-top:100px;">
+<h1>Sacar copia</h1>
+<th><img src="Sacarcopia.jpg"style="width:200px;height:120px;"></th>
+ 
+</div>
+
+    
+    <div id ="sala1" style="margin-top:100px;">
+<h1>Sala:</h1>
+ 
+</div>
+
+    
+    <div id ="Exterior" style="margin-top:100px;">
+<h1>Exterior:</h1>
+
+</div>
+
+    
+     <div id ="Parroquia" style="margin-top:100px;">
+<h1>Parroquia:</h1>
+
+
+<video src="dorm" width="320" height="240" controls></video>
+
+
+
+
+</div>
+
+    
+    
+    
